@@ -7,3 +7,4 @@ Apart from training files, we also require a "schema" file from the user, which 
 Name of the files, Length of Date value in FileName, Length of Time value in FileName, Number of Columns, Name of the Columns, and their datatype. 
 Requirements.txt file consists of all the packages that you need to deploy the app in the cloud. 
 Main.py is the entry point of our application, where the flask server starts.  predictionFromModel.py file where the predictions take place based on the data we are giving input to the model.
+
